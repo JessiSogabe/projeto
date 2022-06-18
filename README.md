@@ -81,5 +81,14 @@ podemos observar que mudou o status para "Unstage"
 Quinta estapa:
 Vamos criar o primerio Commit
 comando: git commit -m "seu comentario"
+
+
+C:\Projeto>git commit -m "Teste"
+[main (root-commit) 8319196] Teste
+ 1 file changed, 1 insertion(+)
+ create mode 100644 GitHub.txt
 ```
+Pronto, já foi exportado o arquivo para o seu GitHub.
+ 
+ 
 
