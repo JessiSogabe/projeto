@@ -89,6 +89,9 @@ C:\Projeto>git commit -m "Teste"
  create mode 100644 GitHub.txt
 ```
 Pronto, já foi exportado o arquivo para o seu GitHub.
+
+          nothing to commit, working tree clean
+          
  
  
 
